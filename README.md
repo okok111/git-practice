@@ -1,1 +1,1 @@
-# git-practice
+# いまさらですがgit の練習
